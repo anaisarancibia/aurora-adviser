@@ -1,0 +1,30 @@
+@charset "UTF-8";
+@import url("https://fonts.googleapis.com/css?family=Signika:300,700");
+
+/* Button */
+
+	.button.alt {
+    	background-color: transparent;
+    	color: #f8f8f8 !important;
+    	font-size: 15px;
+    	border: 2px solid #f8f8f8;
+		border-radius: 10px;
+    	align-items: center; /* Centramos verticalmente */
+    	justify-content: center; /* Centramos horizontalmente */
+		width: 9em;
+		height: 3em;
+		text-decoration: none;
+		font-weight: 600;
+}
+
+.section-background#aurora-team {
+    background-color: #0d2149; /* Color de fondo para la sección "AURORA TEAM" */
+	padding: 1em 0em 1em 0em;
+}
+
+#aurora-team header h2 {
+    padding-top: 0em; /* Puedes ajustar este valor según lo necesites */
+}
+
+
+
